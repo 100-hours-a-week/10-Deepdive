@@ -64,8 +64,6 @@ print(a.__next__())  # StopIteration Exception
 ## 대규모 데이터 처리 예시
 
 ```python
-import os
-
 # 제너레이터: 100GB 파일에서 한 줄씩만 꺼내는 함수
 def read_log_file(file_path):
     with open(file_path, 'r') as f:
