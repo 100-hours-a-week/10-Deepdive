@@ -1,13 +1,5 @@
 # 시계열 데이터 분석이 데이터를 시간 기반으로 이해하는 데 중요한 이유
 
-## 학습 목표
-
-- 시계열 데이터(Time Series Data)의 개념을 이해한다.
-- 시간 정보가 데이터 분석에서 가지는 의미를 이해한다.
-- 시계열 데이터 분석이 중요한 이유를 설명할 수 있다.
-- 시계열 분석의 활용 사례와 AI와의 연관성을 이해한다.
-
----
 
 # 1. 시계열 데이터(Time Series Data)란?
 
@@ -100,13 +92,6 @@
 - 시장 분석
 
 등의 의사결정을 수행할 수 있다.
-
----
-
-### 이미지 예시
-
-
-![Trend Example](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Time_series_example.png/640px-Time_series_example.png)
 
 ---
 
