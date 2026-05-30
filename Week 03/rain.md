@@ -105,7 +105,6 @@
 
 ### 이미지 예시
 
-아래 이미지를 삽입하면 추세를 이해하는 데 도움이 된다.
 
 ![Trend Example](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Time_series_example.png/640px-Time_series_example.png)
 
