@@ -357,9 +357,6 @@ Adam
 
 ---
 
-
----
-
 ## 13. 결론
 
 Gradient Descent와 Adam은 모두 딥러닝 모델의 parameter를 업데이트하기 위한 optimizer다.
